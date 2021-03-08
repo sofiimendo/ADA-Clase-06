@@ -1,0 +1,33 @@
+      h1 {
+        background-color: black;
+        color: white;
+      }
+      /*
+        Por defecto:
+            Hx (headers): block
+            p (parrafos): block
+            divs: block
+
+            span: inline
+            a(anclas): inline
+            img(imágenes): inline     
+            
+            El inline se ajusta a todo el contenido.
+            
+            inline-block
+      */
+      .medida{
+        width: 200px;
+        height: 400px;
+        display: inline-block;
+      }
+      .verde {
+     
+        background-color: green;
+      }
+      .blanco {
+        background-color: white;
+      }
+      .naranja {
+        background-color: orange;
+      }
